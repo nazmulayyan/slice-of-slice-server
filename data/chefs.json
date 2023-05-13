@@ -1,0 +1,298 @@
+{
+    "chefs": [
+        {
+            "id": 1,
+            "picture": "https://i.ibb.co/my7GWcd/946000e801b7b38d5e8bc3086331ca22.jpg",
+            "name": "Hiroshi Nakamura",
+            "years_of_experience": 15,
+            "number_of_recipes": 20,
+            "likes": 500,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "picture": "https://i.ibb.co/ng4MvfM/images.jpg",
+            "name": "Yuki Tanaka",
+            "years_of_experience": 12,
+            "number_of_recipes": 15,
+            "likes": 550,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "picture": "https://i.ibb.co/7rsDDNQ/9.jpg",
+            "name": "Satoshi Yamamoto",
+            "years_of_experience": 10,
+            "number_of_recipes": 14,
+            "likes": 450,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "picture": "https://i.ibb.co/Hn0BRrN/happy-cook-smelling-salad-with-meat-plate.jpg",
+            "name": "Kaoru Suzuki",
+            "years_of_experience": 17,
+            "number_of_recipes": 22,
+            "likes": 400,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "picture": "https://i.ibb.co/W3WQn1P/experienced-sushi-chef-asian-woman-putting-sushi-plate-looking-inspired.jpg",
+            "name": "Aya Takahashi",
+            "years_of_experience": 14,
+            "number_of_recipes": 18,
+            "likes": 700,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "picture": "https://i.ibb.co/xzt58Fm/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background.jpg",
+            "name": "Kenji Nakamura",
+            "years_of_experience": 20,
+            "number_of_recipes": 15,
+            "likes": 600,
+            "recipes": [
+                {
+                    "recipe_name": "Sushi Rolls",
+                    "ingredients": [
+                        "Sushi rice",
+                        "Nori (seaweed)",
+                        "Fresh fish (salmon, tuna, etc.)",
+                        "Cucumber",
+                        "Avocado"
+                    ],
+                    "cooking_method": "1. Prepare sushi rice and cool it down.\n2. Lay a sheet of nori on a bamboo sushi mat.\n3. Spread sushi rice evenly on the nori.\n4. Add thinly sliced fish, cucumber, and avocado on top of the rice.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, pickled ginger, and wasabi.",
+                    "rating": 4.5,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Ramen Soup",
+                    "ingredients": [
+                        "Ramen noodles",
+                        "Chicken or pork broth",
+                        "Chashu (braised pork belly)",
+                        "Soft-boiled egg",
+                        "Green onions"
+                    ],
+                    "cooking_method": "1. Cook the ramen noodles according to the package instructions.\n2. Heat the chicken or pork broth in a pot.\n3. Add seasonings like soy sauce, mirin, and salt to taste.\n4. Place cooked ramen noodles in a serving bowl.\n5. Pour the hot broth over the noodles.\n6. Top with chashu, soft-boiled egg, and sliced green onions.\n7. Serve hot.",
+                    "rating": 4.8,
+                    "favorite": false
+                },
+                {
+                    "recipe_name": "Tempura",
+                    "ingredients": [
+                        "Shrimp",
+                        "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
+                        "Flour",
+                        "Ice-cold water",
+                        "Dipping sauce"
+                    ],
+                    "cooking_method": "1. Prepare the ingredients by peeling and deveining the shrimp, and cutting the vegetables into bite-sized pieces.\n2. In a bowl, mix flour and ice-cold water to make a thin batter.\n3. Dip the shrimp and vegetables into the batter.\n4. Deep-fry them in hot oil until golden brown.\n5. Remove from the oil and drain on a paper towel.\n6. Serve with dipping sauce.",
+                    "rating": 4.2,
+                    "favorite": false
+                }
+            ]
+        }
+    ]
+}
