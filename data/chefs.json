@@ -7,9 +7,11 @@
             "years_of_experience": 15,
             "number_of_recipes": 20,
             "likes": 500,
+            "description": "Hiroshi Nakamura is a highly skilled and celebrated chef specializing in Japanese cuisine. With a passion for culinary artistry, Nakamura is known for his expert techniques and innovative approach to traditional Japanese dishes. His creations are a fusion of flavors, textures, and presentation, resulting in gastronomic experiences that are both visually stunning and incredibly delicious. Nakamura's dedication to using the finest ingredients and his meticulous attention to detail have earned him a reputation as a culinary master. His culinary prowess and commitment to excellence continue to captivate diners and make Hiroshi Nakamura a standout figure in the world of cuisine.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -23,6 +25,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -36,6 +39,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
@@ -56,9 +60,11 @@
             "years_of_experience": 12,
             "number_of_recipes": 15,
             "likes": 550,
+            "description": "Yuki Tanaka is a talented and creative chef known for his mastery of Japanese cuisine. With a passion for culinary innovation, Yuki combines traditional Japanese cooking techniques with modern influences to create stunning and flavorful dishes. His creations reflect his artistic flair and attention to detail, captivating diners with their presentation and exquisite taste. Yuki Tanaka's culinary expertise has made him a respected figure in the culinary world, and his dishes continue to delight and impress food enthusiasts around the globe.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -72,6 +78,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -85,6 +92,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
@@ -105,9 +113,11 @@
             "years_of_experience": 10,
             "number_of_recipes": 14,
             "likes": 450,
+            "description": "Satoshi Yamamoto is a Japanese shepherd known for his expertise in sheep farming and herding. He is dedicated to the care, breeding, and training of Japanese sheep breeds. With extensive knowledge in sheep behavior and health, Satoshi ensures the well-being and productivity of the sheep under his care. He also actively promotes the preservation of Japanese sheep breeds and educates others about the importance of sustainable farming practices. Satoshi Yamamoto is a respected figure in the Japanese sheep farming community for his commitment and contributions to the field.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -121,6 +131,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -134,6 +145,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
@@ -154,9 +166,11 @@
             "years_of_experience": 17,
             "number_of_recipes": 22,
             "likes": 400,
+            "description": "Kaoru Suzuki is an acclaimed chef specializing in Japanese cuisine. With a wealth of culinary experience, Suzuki is known for his mastery of traditional Japanese cooking techniques and his ability to create dishes that are both visually stunning and delicious. Suzuki's culinary creations are characterized by their exquisite presentation and the harmonious balance of flavors. With a focus on using fresh, high-quality ingredients, he crafts dishes that showcase the essence of Japanese cuisine while adding his own innovative touches.Through his culinary artistry, Kaoru Suzuki continues to captivate diners with his skillful execution and attention to detail, earning him a reputation as a renowned chef in the culinary world.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -170,6 +184,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -183,6 +198,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
@@ -203,9 +219,11 @@
             "years_of_experience": 14,
             "number_of_recipes": 18,
             "likes": 700,
+            "description": "Aya Takahashi is an innovative chef specializing in Japanese cuisine. With a passion for culinary excellence, she skillfully blends traditional techniques with modern influences. Known for her visually stunning and flavorful dishes, Takahashi's commitment to quality and creativity shines through in every plate she creates. Her culinary artistry has made her a respected figure in the industry, captivating diners with her exceptional creations.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -219,6 +237,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -232,6 +251,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
@@ -252,9 +272,11 @@
             "years_of_experience": 20,
             "number_of_recipes": 15,
             "likes": 600,
+            "description": "Kenji Nakamura is a highly skilled chef with a passion for Japanese cuisine. Known for his expertise in traditional cooking techniques, Nakamura creates dishes that are a perfect balance of flavors and textures.With an emphasis on using fresh, seasonal ingredients, Nakamura's culinary creations showcase the essence of Japanese gastronomy. His meticulous attention to detail and innovative approach to plating make his dishes both visually stunning and incredibly delicious.Nakamura's culinary journey is a testament to his dedication and commitment to his craft. Through his exceptional skills and unwavering pursuit of culinary excellence, he continues to impress and inspire diners with his remarkable creations.",
             "recipes": [
                 {
                     "recipe_name": "Sushi Rolls",
+                    "recipe_picture": "https://www.allrecipes.com/thmb/CBOcP0zp71lR2bn-KUMkgCB92RA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24228-Sushi-roll-ddmfs-4x3-2914-1839f746d9334814a7a5d93ed45ba082.jpg",
                     "ingredients": [
                         "Sushi rice",
                         "Nori (seaweed)",
@@ -268,6 +290,7 @@
                 },
                 {
                     "recipe_name": "Ramen Soup",
+                    "recipe_picture": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
                     "ingredients": [
                         "Ramen noodles",
                         "Chicken or pork broth",
@@ -281,6 +304,7 @@
                 },
                 {
                     "recipe_name": "Tempura",
+                    "recipe_picture": "https://www.thespruceeats.com/thmb/CkzlxmRyeK8IUrMrHrbq73RX4g4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basic-tempura-for-fish-and-seafood-1300531-hero-01-bbd91b4ee23940749fec5ab7693eadcc.jpg",
                     "ingredients": [
                         "Shrimp",
                         "Assorted vegetables (e.g., sweet potato, bell pepper, zucchini)",
