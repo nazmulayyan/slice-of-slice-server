@@ -2,27 +2,27 @@
     "questions": [
         {
             "id": 1,
-            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bard_in_the_Forest_by_John_William_Waterhouse.jpg/1200px-Bard_in_the_Forest_by_John_William_Waterhouse.jpg",
+            "picture": "https://cdn.hashnode.com/res/hashnode/image/upload/v1678720125694/4b662a37-aab8-4880-a833-a05d051de623.png",
             "question": "What are the differences between uncontrolled and controlled components?",
             "answer": "In React, there are two types of components: uncontrolled and controlled components. Uncontrolled components are those that do not have their state managed by React. Instead, the state of an uncontrolled component is managed by the DOM. Controlled components, on the other hand, have their state managed by React. This means that React can control the value of a controlled component's state, even if the user changes the value of the component's input. Here is a table that summarizes the differences between uncontrolled and controlled components: Feature | Uncontrolled Components | Controlled Components | State management | Managed by the DOM | Managed by React | Value of input | Can be changed by the user | Can be controlled by React | Callbacks | Not required | Required | Debugging | More difficult | Easier | Testing | More difficult | Easier |"
         },
         {
+            "id": 4,
+            "picture": "https://i0.wp.com/blog.alexdevero.com/wp-content/uploads/2021/06/14-06-21-how-to-create-your-own-react-custom-hooks-blog.jpg?w=1024&ssl=1",
+            "question": "What is a custom hook, and why will you create a custom hook?",
+            "answer": "A custom hook is a reusable piece of code that can be used to abstract away common functionality in React components. Custom hooks are created by using the `useState` and `useEffect` hooks, which are provided by React. There are many reasons why you might want to create a custom hook. For example, you might want to create a custom hook to: Abstract away common logic that is used in multiple components Improve performance by sharing code between components Make it easier to test components Here is an example of a custom hook that can be used to log the state of a component: const useLogState = () => { const [state, setState] = useState(null); useEffect(() => { console.log('State changed to'"
+        },
+        {
             "id": 2,
-            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/React-logo.svg/1200px-React-logo.svg.png",
+            "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGI0luM_AmeG5Jodi2HYSNMW-OdlPADInDA&usqp=CAU",
             "question": "How to validate React props using PropTypes",
             "answer": "PropTypes are a set of type checking functions that can be used to validate React props. PropTypes are defined as a property of the component class, and they can be used to check the type, value, and nullability of props. Here is an example of how to use PropTypes to validate a prop: class MyComponent extends React.Component { static propTypes = { name: PropTypes.string.isRequired, age: PropTypes.number, }; render() { return ( <div> <h1>My name is {this.props.name}</h1> <h2>I am {this.props.age} years old</h2> </div> ); } } In this example, the `name` prop is required to be a string, and the `age` prop is required to be a number. If a prop is not valid, React will throw an error."
         },
         {
             "id": 3,
-            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Express_logo.svg/1200px-Express_logo.svg.png",
+            "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeWpqf9ObZHKNgzvHooxbJYqf7u9RZfTcdPw&usqp=CAU",
             "question": "What is the difference between Node.js and Express.js?",
             "answer": "Node.js is a JavaScript runtime environment that runs on the server side. Express.js is a web application framework built on top of Node.js. The main difference between Node.js and Express.js is that Node.js is a runtime environment, while Express.js is a web application framework. This means that Node.js is responsible for running JavaScript code, while Express.js provides a set of tools and libraries that make it easier to build web applications. Here is a table that summarizes the differences between Node.js and Express.js: Feature | Node.js | Express.js | Type | Runtime environment | Web application framework | Purpose | Runs JavaScript code | Provides tools and libraries for building web applications | Features | Event loop, asynchronous I/O, modules | Routing, middleware, templates | Ecosystem | Large and active community | Large and active community |"
-        },
-        {
-            "id": 4,
-            "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Express_logo.svg/1200px-Express_logo.svg.png",
-            "question": "What is a custom hook, and why will you create a custom hook?",
-            "answer": "A custom hook is a reusable piece of code that can be used to abstract away common functionality in React components. Custom hooks are created by using the `useState` and `useEffect` hooks, which are provided by React. There are many reasons why you might want to create a custom hook. For example, you might want to create a custom hook to: Abstract away common logic that is used in multiple components Improve performance by sharing code between components Make it easier to test components Here is an example of a custom hook that can be used to log the state of a component: const useLogState = () => { const [state, setState] = useState(null); useEffect(() => { console.log('State changed to'"
         }
     ]
 }
