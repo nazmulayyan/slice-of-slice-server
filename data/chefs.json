@@ -2,7 +2,7 @@
     "chefs": [
         {
             "id": 1,
-            "picture": "https://i.ibb.co/my7GWcd/946000e801b7b38d5e8bc3086331ca22.jpg",
+            "picture": "https://i.ibb.co/H4X4LpN/pic4.png",
             "name": "Hiroshi Nakamura",
             "years_of_experience": 15,
             "number_of_recipes": 20,
@@ -55,7 +55,7 @@
         },
         {
             "id": 2,
-            "picture": "https://i.ibb.co/ng4MvfM/images.jpg",
+            "picture": "https://i.ibb.co/rvvNZnQ/pic1.png",
             "name": "Yuki Tanaka",
             "years_of_experience": 12,
             "number_of_recipes": 15,
@@ -108,7 +108,7 @@
         },
         {
             "id": 3,
-            "picture": "https://i.ibb.co/7rsDDNQ/9.jpg",
+            "picture": "https://i.ibb.co/VSrr7fg/team-img-4.jpg",
             "name": "Satoshi Yamamoto",
             "years_of_experience": 10,
             "number_of_recipes": 14,
@@ -161,7 +161,7 @@
         },
         {
             "id": 4,
-            "picture": "https://i.ibb.co/Hn0BRrN/happy-cook-smelling-salad-with-meat-plate.jpg",
+            "picture": "https://i.ibb.co/MND7txp/team-img-1.jpg",
             "name": "Kaoru Suzuki",
             "years_of_experience": 17,
             "number_of_recipes": 22,
@@ -214,7 +214,7 @@
         },
         {
             "id": 5,
-            "picture": "https://i.ibb.co/W3WQn1P/experienced-sushi-chef-asian-woman-putting-sushi-plate-looking-inspired.jpg",
+            "picture": "https://i.ibb.co/5Wfg4YB/team-img-2.jpg",
             "name": "Aya Takahashi",
             "years_of_experience": 14,
             "number_of_recipes": 18,
@@ -267,7 +267,7 @@
         },
         {
             "id": 6,
-            "picture": "https://i.ibb.co/xzt58Fm/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background.jpg",
+            "picture": "https://i.ibb.co/2ZGPzz2/team-img-3.jpg",
             "name": "Kenji Nakamura",
             "years_of_experience": 20,
             "number_of_recipes": 15,
